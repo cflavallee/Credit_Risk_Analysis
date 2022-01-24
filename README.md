@@ -28,7 +28,7 @@ As with the previous models, the one did not fare any better, and in fact, did r
 ### SMOTEENN
 Even using a combination of over and under sampling the data did not perform much better than the previous three models, at least not to a significant extent. 
 
-![SMOTEENN Balanced](https://github.com/cflavallee/Credit_Risk_Analysis/blob/main/Images/SMOTENNScore.PNG)
+![SMOTEENN Balanced](https://github.com/cflavallee/Credit_Risk_Analysis/blob/main/Images/SMOTEENNScore.PNG)
 ![SMOTEENN Imbalanced](https://github.com/cflavallee/Credit_Risk_Analysis/blob/main/Images/SMOTEENNImbalanced.PNG)
 
 ### BalancedRandomForestClassifier
